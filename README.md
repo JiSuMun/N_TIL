@@ -7,5 +7,5 @@
 
 - [하노이 탑](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/hanoi.md)
 
-- [최대 연속 부분수열의 합](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/sequence.md)
+- [투 포인터 알고리즘](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/two_pointer.md)
 </details>
