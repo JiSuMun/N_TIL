@@ -8,4 +8,6 @@
 - [하노이 탑](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/hanoi.md)
 
 - [투 포인터 알고리즘](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/two_pointer.md)
+
+- [DFS & BFS](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/DFS_BFS.md)
 </details>
