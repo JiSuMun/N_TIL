@@ -12,4 +12,10 @@
 - [DFS & BFS](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/DFS_BFS.md)
 
 - [다이나믹 프로그래밍](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/DP.md)
+
+- [힙(Heap)](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/Heap.md)
+
+- [우선순위 큐](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/PriorityQueue.md)
+
+- [크루스칼 알고리즘](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/Kruskal.md)
 </details>
