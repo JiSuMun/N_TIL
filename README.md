@@ -30,6 +30,6 @@
 <details>
 <summary>CS</summary>
 
-- []()
+- [컴퓨터 구조(Computer Architecture)]()
 
 </details>
