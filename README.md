@@ -30,6 +30,7 @@
 <details>
 <summary>CS</summary>
 
-- [컴퓨터 구조(Computer Architecture)]()
+- [컴퓨터 구조(Computer Architecture)](https://github.com/JiSuMun/New_TIL/blob/main/CS/Computer_Architecture.md)
+- [0과 1로 숫자 표현]()
 
 </details>
